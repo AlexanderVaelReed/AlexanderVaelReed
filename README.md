@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Alexander
 
-### Software developer
+### Web developer
 
 
 
