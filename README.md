@@ -1,5 +1,5 @@
 
-![logo](https://github.com/sheikh-python/sheikh-python/blob/main/1.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 
